@@ -5,9 +5,8 @@
 - item: 作者
   icon: fab fa-hive
   #link: https://weiyan.cc
-  #link: ""
-  tooltip: "aitools101@163.com"
-  message: "message"
+  list:
+    - name: aitools101@163.com
 
 - item: 关于
   icon: fa fa-cog
