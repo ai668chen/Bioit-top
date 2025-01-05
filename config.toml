@@ -37,7 +37,8 @@ publishDir            = "public"
     searchImageD      = "https://res.bioit.top/banner/bg-dna.jpg"	# 搜索部分深色背景图
     logoExpandLight   = "https://res.bioit.top/sites/bioit-expand-dark.png"
     logoExpandDark    = "https://res.bioit.top/sites/bioit-expand-light.png"
-    logoCollapseLight = "https://res.bioit.top/sites/bi.png"
+    #logoCollapseLight = "https://res.bioit.top/sites/bi.png"
+    logoCollapseLight = "public/assets/images/logos/ai-icon.webp"
     logoCollapseDark  = "https://res.bioit.top/sites/bi.png"
 
 [markup.goldmark.renderer]
