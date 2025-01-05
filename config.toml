@@ -38,8 +38,8 @@ publishDir            = "public"
     logoExpandLight   = "https://res.bioit.top/sites/bioit-expand-dark.png"
     logoExpandDark    = "https://res.bioit.top/sites/bioit-expand-light.png"
     #logoCollapseLight = "https://res.bioit.top/sites/bi.png"
-    logoCollapseLight = "/public/assets/images/logos/ai-icon.webp"
-    logoCollapseDark  = "https://res.bioit.top/sites/bi.png"
+    logoCollapseLight = "/public/assets/images/ai-icon.png"
+    logoCollapseDark  = "/public/assets/images/ai-icon.png"
 
 [markup.goldmark.renderer]
     unsafe = true
