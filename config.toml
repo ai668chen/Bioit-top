@@ -1,4 +1,5 @@
-baseURL               = "https://bioit.top"
+#baseURL               = "https://bioit.top"
+baseURL               ="https://aitools101.uk"
 languageCode          = "zh-CN"
 title                 = "WebStack-Hugo 网址导航"
 theme                 = "WebStack-Hugo"
@@ -10,7 +11,7 @@ publishDir            = "public"
 [params]
     author        = "aitools101"
     description   = "WebStack-Hugo 网址导航主题 | AITools101"
-    upload        = "https://github.com/shenweiyan/Bioit-top/blob/main/data/webstack.yml"
+    #upload        = "https://github.com/shenweiyan/Bioit-top/blob/main/data/webstack.yml"
     #about         = "https://weiyan.cc/discussions-10/"	                # 左侧导航栏的"关于我们"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"	
     enablePreLoad = true                                                # 网站完全打开前预加载动画
